@@ -1,3 +1,4 @@
-# SIMPLE ECOMMERCE WEB APP 
+# BASIC NODE API 
 ***
-This app is build using Angular , Node.js / Express  MongoDB
+This api is build using  Node.js/ Express  MongoDB
+and consume by a frontend client made with angular 
